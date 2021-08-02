@@ -1,3 +1,5 @@
 Paulo Vitor Garcia Motta - github: @paulog22
 
 Brunno Aires Silva - github: @brunnoaires
+
+Gianlluca do Carmo Leme - github: @GianllucaLeme
